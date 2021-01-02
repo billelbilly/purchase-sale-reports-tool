@@ -10,11 +10,11 @@ Sales-puchases reports is python based tool that gives the user the magic to pro
 
 _once the user runs the tool executable he will be prompted with a stuning interface where he only have to upload the excel file that ment to get reports from and press the **Do Magic** button._
 
-![Markdown Logo](https://github.com/billelbilly/HelpdeskTicketingSystem/blob/main/1.png)
+![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/1.png)
 
 _reports are provided with a groupby filter that allow the user to get his reports grouped by a certain category or date_
 
-![Markdown Logo](https://github.com/billelbilly/HelpdeskTicketingSystem/blob/main/groupby.png)
+![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/groupby.png)
 
 _Then the user has to chose among the available reports or to choose them all at once._
 
@@ -22,108 +22,21 @@ _After That a Reports folder is going to be created on the Desktop contianing al
 
 _below is the Reports Folder:_
 
-![Markdown Logo](https://github.com/billelbilly/HelpdeskTicketingSystem/blob/main/reportsFolder.png)
+![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/reportsFolder.png)
 
 _These are Excel and graphs subfolders:_
 
-![Markdown Logo](https://github.com/billelbilly/HelpdeskTicketingSystem/blob/main/excel_graphs.png)
+![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/excel_graphs.png)
 
 _the Excel example report of the mounthly revenues for each category automatically generated and its corresponding graph:_
 
-![Markdown Logo](https://github.com/billelbilly/HelpdeskTicketingSystem/blob/main/excel.png)
+![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/excel.png)
 
-![Markdown Logo](https://github.com/billelbilly/HelpdeskTicketingSystem/blob/main/graph.png)
+![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/graph.png)
 
 # About me
 
 _Computer Science Student seeking for glory and success_
 
-![Markdown Logo](https://github.com/billelbilly/HelpdeskTicketingSystem/blob/main/about.png)
+![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/about.png)
 
-<!-- Italics -->
-
-_This text_ is italic
-
-_This text_ is italic
-
-<!-- Strong -->
-
-**This text** is italic
-
-**This text** is italic
-
-<!-- Strikethrough -->
-
-~~This text~~ is strikethrough
-
-<!-- Horizontal Rule -->
-
----
-
----
-
-<!-- Blockquote -->
-
-> This is a quote
-
-<!-- Links -->
-
-[Traversy Media](http://www.traversymedia.com)
-
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
-
-<!-- UL -->
-
-- Item 1
-- Item 2
-- Item 3
-  - Nested Item 1
-  - Nested Item 2
-
-<!-- OL -->
-
-1. Item 1
-1. Item 2
-1. Item 3
-
-<!-- Inline Code Block -->
-
-`<p>This is a paragraph</p>`
-
-<!-- Images -->
-
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
-
-<!-- Github Markdown -->
-
-<!-- Code Blocks -->
-
-```bash
-  npm install
-
-  npm start
-```
-
-```javascript
-function add(num1, num2) {
-  return num1 + num2;
-}
-```
-
-```python
-  def add(num1, num2):
-    return num1 + num2
-```
-
-<!-- Tables -->
-
-| Name     | Email          |
-| -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
-
-<!-- Task List -->
-
-- [x] Task 1
-- [x] Task 2
-- [ ] Task 3
