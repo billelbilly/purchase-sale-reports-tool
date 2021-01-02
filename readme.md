@@ -6,7 +6,7 @@
 
 *Sales-puchases reports is python based tool that gives the user the magic to process all the requests only from a simple button click and all expected Excel reports and graphs that was to be configured manually will be generated automatically.*
 
-#Tool presentation
+# Tool presentation
 
 _once the user runs the tool executable he will be prompted with a stuning interface where he only have to upload the excel file that ment to get reports from and press the **Do Magic** button._
 
