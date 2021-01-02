@@ -2,7 +2,7 @@
 
 # Sales Reports
 
-*Some times it becomes a tedious task to manually establish sales/purchases reports for the entire company or organization using only some classic softwares such as Excel. Hence automating this task becomes a must in nowadays companies, since the amount of data is soo huge that it would take a tremendes amount of time to process all this data.*
+*Some times it becomes a tedious task to manually establish sales/purchases reports for the entire company or organization using only some classic softwares such as Excel. Hence automating this task becomes a must in nowadays companies, since the amount of data is soo huge that it would take a tremendous amount of time to process all this data.*
 
 *Sales-puchases reports is python based tool that gives the user the magic to process all the requests only from a simple button click and all expected Excel reports and graphs that was to be configured manually will be generated automatically.*
 
@@ -28,7 +28,7 @@ _These are Excel and graphs subfolders:_
 
 ![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/excel_graphs.png)
 
-_the Excel example report of the mounthly revenues for each category automatically generated and its corresponding graph:_
+_the Excel example report of the monthly revenues for each category automatically generated and its corresponding graph:_
 
 ![Markdown Logo](https://github.com/billelbilly/purchase-sale-reports-tool/blob/main/screenshots/excel.png)
 
